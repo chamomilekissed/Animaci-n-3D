@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35514598/README.md)
+
 # PacMan 3D en primera persona (C + OpenGL 3.3)
 
 Un PacMan sin fantasmas: recorres un laberinto 3D y te comes todas las bolitas.
