@@ -1,0 +1,6 @@
+Copia aqui los archivos generados en https://glad.dav1d.de
+(C/C++, gl 3.3, Core, Generate a loader):
+  include/glad/glad.h
+  include/KHR/khrplatform.h
+  src/glad.c
+Ver README.md, seccion "Como compilar".
